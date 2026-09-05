@@ -2,7 +2,6 @@
 
 Object-Oriented Programming concepts and practice in Java.
 
-This section follows Kunal Kushwaha's Java OOP playlist.
 
 ## Topics
 
